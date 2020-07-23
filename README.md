@@ -1,4 +1,4 @@
 # MLOps-Study :
 
-MLOps group study 
+MLOps group study.
 
